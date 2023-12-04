@@ -45,8 +45,9 @@ can be changed to: <br>
 }
 ```
 <br>
-Finally, perform the request on any API-testing site. If the code returned is 200, the request was successful.<br>
-A valid request would look something like this; tested on reqbin.com<br>
+Finally, perform the request on any API testing site. If the code returned is 200, the request was successful. A valid request would look something like this (tested on reqbin.com).
+<br>
+
 ![image](https://github.com/splitparty/academy.cs.cmu.edu/assets/135715609/5b279beb-7547-4549-83c1-19b9ac3e7e10)<br>
 ![image](https://github.com/splitparty/academy.cs.cmu.edu/assets/135715609/08074dcc-7744-44a7-85d4-14071bd8b0c1)<br>
 And it should return:<br>
